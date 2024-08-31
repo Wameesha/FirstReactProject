@@ -1,4 +1,5 @@
 Cake Website
+--------------------------------------------------------------------
 Welcome to my first React application, a website for Cake on Cake! This project is a simple, front-end-only web application that showcases the delicious cakes we offer. The site includes a few pages, each designed to highlight different aspects of our cake business.
 
 Features
